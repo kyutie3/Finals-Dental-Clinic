@@ -266,7 +266,7 @@ nav ul li a:hover {
 }
 
 /* Media query for larger screens */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1000px) {
     /* Hide the sidebar button for larger screens */
     .openbtn {
         display: none;
