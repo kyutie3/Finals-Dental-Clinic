@@ -266,14 +266,14 @@ nav ul li a:hover {
 }
 
 /* Media query for larger screens */
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 600px) {
     /* Hide the sidebar button for larger screens */
     .openbtn {
-        display: block;
+        display: none;
     }
 
     .closebtn {
-        display: block;
+        display: none;
     }
 }
 
