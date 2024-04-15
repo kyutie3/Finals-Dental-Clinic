@@ -269,11 +269,11 @@ nav ul li a:hover {
 @media screen and (min-width: 1000px) {
     /* Hide the sidebar button for larger screens */
     .openbtn {
-        display: none;
+        display: block;
     }
 
     .closebtn {
-        display: none;
+        display: block;
     }
 }
 
